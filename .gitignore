@@ -12,7 +12,8 @@ venv/
 env/
 
 # Large datasets
-dataset/
+dataset/*
+!dataset/README.md
 data/
 
 # YOLO model weights
