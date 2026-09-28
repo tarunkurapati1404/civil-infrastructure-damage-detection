@@ -89,6 +89,13 @@ The complete project workflow, implementation details, and training steps are do
 
 The original project was developed and trained using Google Colab with GPU acceleration. You can open and run the notebook directly in Google Colab using your workspace setup.
 
+## Results
+The trained YOLOv4 model successfully detected potholes and localised them using bounding boxes.
+
+## Sample Detection
+
+![Pothole Detection Result](results/pothole_detection_result_01.jpg)
+
 ## Dataset
 
 The project uses road-surface imagery containing pothole examples and corresponding object-detection annotations.
