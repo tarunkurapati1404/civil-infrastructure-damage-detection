@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large datasets
+dataset/
+data/
+
+# YOLO model weights
+*.weights
+*.pt
+*.pth
+
+# Model outputs
+runs/
+output/
+outputs/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem
