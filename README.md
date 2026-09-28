@@ -96,6 +96,14 @@ The trained YOLOv4 model successfully detected potholes and localised them using
 
 ![Pothole Detection Result](results/pothole_detection_result_01.jpg)
 
+## Model Performance
+
+| Metric | YOLOv4 |
+|---|---:|
+| mAP@0.5 | 77.7% |
+| Precision | 84% |
+| Recall | 74% |
+
 ## Dataset
 
 The project uses road-surface imagery containing pothole examples and corresponding object-detection annotations.
